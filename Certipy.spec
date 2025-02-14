@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['certipy\\entry.py'],
+    ['certipy/entry.py'],
     pathex=[],
     binaries=[],
     datas=[],
